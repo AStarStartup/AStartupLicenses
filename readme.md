@@ -1,9 +1,9 @@
-# Kabuki Licenses
+# AStartup Licenses
 
-* [Kabuki Strong Source-available License](./LicenseSourceAvailableStrong.md) - An open-source license designed to protect your copyright rights, sole monetization by the IP Owner, and forces users to donate back any improvements. It features a clause that allows for commercial use under a separate paid license from your website agreed upon before download, facilitating one-time donations, closed-source Software-as-a-Service, and avoiding app store fees. Use this license if you need to prevent others from profiting from your open-source products and books without paying you.
-* [Kabuki Weak Source-available License](./LicenseSourceAvailableWeak.md) - An open-source license designed to provide the most protection to free-to-use projects from Open-source Theft from predatorial companies and individuals by granting free personal licenses with an instant termination clause for anyone engaging in Open-source theft. The license additionally allows those affected by the license restriction to purchase a license through a designated website. Use this license if you want the open-source to be used by end-users for commercial purposes without donating improvements.
-* [Kabuki Strong Source-closed License](./LicenseSourceClosedStrong.md) - A closed-source license designed to maximize your legal rights by protecting your copyright under a trade secret common law provision. This is the license generally recommended for products/businesses that do not sub-license their products.
-* [Kabuki Weak Source-closed License](./LicenseSourceClosedWeak.md) - A closed-source license designed to protect your copyright rights only and attempt to keep your IP confidential. Use this license if you are sub-licensing your product.
+* [AStartup Strong Source-available License](./LicenseSourceAvailableStrong.md) - An open-source license designed to protect your copyright rights, sole monetization by the IP Owner, and forces users to donate back any improvements. It features a clause that allows for commercial use under a separate paid license from your website agreed upon before download, facilitating one-time donations, closed-source Software-as-a-Service, and avoiding app store fees. Use this license if you need to prevent others from profiting from your open-source products and books without paying you.
+* [AStartup Weak Source-available License](./LicenseSourceAvailableWeak.md) - An open-source license designed to provide the most protection to free-to-use projects from Open-source Theft from predatorial companies and individuals by granting free personal licenses with an instant termination clause for anyone engaging in Open-source theft. The license additionally allows those affected by the license restriction to purchase a license through a designated website. Use this license if you want the open-source to be used by end-users for commercial purposes without donating improvements.
+* [AStartup Strong Source-closed License](./LicenseSourceClosedStrong.md) - A closed-source license designed to maximize your legal rights by protecting your copyright under a trade secret common law provision. This is the license generally recommended for products/businesses that do not sub-license their products.
+* [AStartup Weak Source-closed License](./LicenseSourceClosedWeak.md) - A closed-source license designed to protect your copyright rights only and attempt to keep your IP confidential. Use this license if you are sub-licensing your product.
 
 ## Why Use Source-Available?
 
@@ -17,4 +17,4 @@ To use this license, create a `ReadMe.md` file in every folder of your repositor
 
 ## License
 
-Copyright ©2019-22 [Kabuki Starship™](https://kabukistarship.com); all rights reserved.
+Copyright [AStartup](https://astartup.net)™; all rights reserved.
